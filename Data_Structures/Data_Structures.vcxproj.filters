@@ -18,5 +18,8 @@
     <ClCompile Include="diziler-1-2-3-boyutlu.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="matris-carpimi-statik.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
