@@ -21,5 +21,8 @@
     <ClCompile Include="matris-carpimi-statik.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="matris-carpimi-dinamik.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

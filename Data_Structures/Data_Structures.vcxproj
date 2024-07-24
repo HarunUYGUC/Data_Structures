@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="diziler-1-2-3-boyutlu.c" />
+    <ClCompile Include="matris-carpimi-dinamik.c" />
     <ClCompile Include="matris-carpimi-statik.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
