@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="diziler-1-2-3-boyutlu.cpp">
+    <ClCompile Include="diziler-1-2-3-boyutlu.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
