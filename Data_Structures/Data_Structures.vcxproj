@@ -132,6 +132,7 @@
     <ClCompile Include="liste.c" />
     <ClCompile Include="matris-carpimi-dinamik.c" />
     <ClCompile Include="matris-carpimi-statik.c" />
+    <ClCompile Include="yigin-statik.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
