@@ -27,5 +27,8 @@
     <ClCompile Include="liste.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="cift-yonlu-liste.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
