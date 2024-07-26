@@ -129,11 +129,16 @@
   <ItemGroup>
     <ClCompile Include="cift-yonlu-liste.c" />
     <ClCompile Include="diziler-1-2-3-boyutlu.c" />
+    <ClCompile Include="Ikili_Arama_Agaci\ikili-arama-agaci.c" />
+    <ClCompile Include="Ikili_Arama_Agaci\main.c" />
     <ClCompile Include="liste.c" />
     <ClCompile Include="matris-carpimi-dinamik.c" />
     <ClCompile Include="matris-carpimi-statik.c" />
     <ClCompile Include="yigin-dinamik.c" />
     <ClCompile Include="yigin-statik.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Ikili_Arama_Agaci\ikili-arama-agaci.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

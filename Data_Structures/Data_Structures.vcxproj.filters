@@ -36,5 +36,16 @@
     <ClCompile Include="yigin-dinamik.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Ikili_Arama_Agaci\ikili-arama-agaci.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Ikili_Arama_Agaci\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Ikili_Arama_Agaci\ikili-arama-agaci.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
