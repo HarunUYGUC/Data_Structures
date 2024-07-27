@@ -48,6 +48,9 @@
     <ClCompile Include="hash.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="avl-agaclari.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ikili_Arama_Agaci\ikili-arama-agaci.h">

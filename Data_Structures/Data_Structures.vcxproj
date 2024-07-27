@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="avl-agaclari.c" />
     <ClCompile Include="cift-yonlu-liste.c" />
     <ClCompile Include="diziler-1-2-3-boyutlu.c" />
     <ClCompile Include="hash.c" />
