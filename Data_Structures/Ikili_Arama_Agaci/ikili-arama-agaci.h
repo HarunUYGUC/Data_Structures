@@ -1,3 +1,4 @@
+/*
 #ifndef IKILIARAMAAGACI_H
 #define	IKILIARAMAAGACI_H
 
@@ -28,4 +29,5 @@ int ikili_arama_agaci_mi_yeni(int arg_count, ...);
 int ikili_arama_agaci_dengeli_yardimci(struct agac_dugum*, struct agac_dugum*);
 int ikili_arama_agaci_dengeli_mi(struct agac_dugum*);
 int ic_dugum_sayisi(struct agac_dugum*);
-#endif	/* IKILIARAMAAGACI_H */
+#endif IKILIARAMAAGACI_H
+*/
