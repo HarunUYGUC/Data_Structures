@@ -42,6 +42,9 @@
     <ClCompile Include="Ikili_Arama_Agaci\main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="heap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Ikili_Arama_Agaci\ikili-arama-agaci.h">

@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="cift-yonlu-liste.c" />
     <ClCompile Include="diziler-1-2-3-boyutlu.c" />
+    <ClCompile Include="heap.c" />
     <ClCompile Include="Ikili_Arama_Agaci\ikili-arama-agaci.c" />
     <ClCompile Include="Ikili_Arama_Agaci\main.c" />
     <ClCompile Include="liste.c" />
