@@ -48,7 +48,10 @@
     <ClCompile Include="hash.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="avl-agaclari.c">
+    <ClCompile Include="avl-agaci.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="red-black-tree.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
